@@ -17,7 +17,7 @@ body{
 
 #header{
     height: 700px;
-    background-image: linear-gradient(rgba(29, 29, 59, 0.356)),url(./images/galactic-night-sky-astronomy-science-combined-generative-ai.jpg);
+    background-image: linear-gradient(rgba(29, 29, 59, 0.356)),url(/images/galactic-night-sky-astronomy-science-combined-generative-ai.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -355,4 +355,5 @@ footer .border{
     width: 350px;
     border-radius: 5px;
     height: 60px;
+
 }
